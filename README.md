@@ -1,9 +1,3 @@
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B40E0E&size=55&center=true&vCenter=true&width=1000&lines=Hi!+I'm;Edvaldo+Cariege;I'm+Software+Developer)](https://git.io/typing-svg)
-
-<br/>
 <h3 align="center" style="color: #FFF;  margin-bottom: 4rem;">Software developer since 2019, I recognize myself as an enthusiast in new technologies in the market with learning day after day.</h3>
 
 
