@@ -1,8 +1,4 @@
 
-
-![0](https://github.com/osvaldocariege06/osvaldocariege06/assets/96788655/0100c2f4-04ad-4f67-ac10-b7a7883bd9fd)
-
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B40E0E&size=55&center=true&vCenter=true&width=1000&lines=Hi!+I'm;Edvaldo+Cariege;I'm+Software+Developer)](https://git.io/typing-svg)
@@ -11,9 +7,9 @@
 <h3 align="center" style="color: #FFF;  margin-bottom: 4rem;">Software developer since 2019, I recognize myself as an enthusiast in new technologies in the market with learning day after day.</h3>
 
 
-- 🔭 I’m currently working on [Streming](http://streaming.pnclique.com/)
+- 🔭 I’m currently working on [Streming](https://mirantes.io/)
 
-- 🌱 I’m currently learning **React Native, Node JS.**
+- 🌱 I’m currently learning **Kotlin Multplatform, JAVA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/osvaldocariege06](https://github.com/osvaldocariege06)
 
